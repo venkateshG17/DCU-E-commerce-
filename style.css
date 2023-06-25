@@ -1,0 +1,117 @@
+*{
+    scroll-behavior: smooth;
+    transition: 1s;
+    box-sizing: border-box;
+    font-family: 'Mukta', sans-serif;
+}
+.home{
+    background: url("bgimg.jpg");
+    background-repeat: no-repeat;
+    transition: 1s;
+    color:rgb(255, 255, 255);
+    box-sizing: border-box;
+}
+.nav-div{
+    background-color: #ffffff;
+    font-weight: bold;
+    width: 90%;
+    transition: 1s;
+    box-shadow: 0px 7px 35px -13px rgb(0, 0, 0);
+
+}
+.nav-link{
+    color: rgb(0, 0, 0);
+    transition: .5s;
+    font-weight: 900;
+}
+
+
+.nav-ul li{
+    margin: 10px;
+    margin-top: 5px;
+    transition: 1s;
+}
+.nav-ul li:hover{
+border-bottom: 1px solid black;
+}
+.heroimg{
+    width: 550px;
+    height: 550px;
+    position: absolute;
+    right: 150px;
+    top:80px;
+}
+.txt{
+   text-align: center;
+   margin-top: 150px;
+}
+.txt span{
+    color: rgb(218, 218, 218);
+}
+.disBtn{
+    margin: 30px;
+    padding: 10px;
+    width: 150px;
+    border-radius: 5px;
+    transition: 500ms;
+    color: #000000;
+    background-color: #ffffff;
+    transition: .7s;
+    border: 0px;
+}
+.disBtn:hover{
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.products{
+    width: 100%;
+}
+.p-head{
+    font-weight: bolder;
+    text-align: center;
+    margin: 50px;
+}
+.cards{
+    padding: 5px;
+}
+.card-cont{
+    margin-top: 10px;
+}
+.card-title{
+    line-height: 50px;
+}
+.read{
+    line-height: 50px;
+}
+.buy-btn{
+    float: right;
+    margin-top: -105px;
+    width:70px;
+    border-radius: 4px;
+}
+
+.about{
+    width: 100%;
+}
+.a-head{
+    font-weight: bolder;
+    text-align: center;
+    margin: 30px;
+}
+
+.a-card{
+    line-height: 35px;
+}
+
+.card-ach{
+    padding: 10px;
+    text-align: center;
+    margin: 10px;
+}
+
+.contact{
+    background-color: #000000;
+    color: #ffffff;
+    margin-top: 80px;
+}
