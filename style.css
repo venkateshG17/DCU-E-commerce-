@@ -76,6 +76,9 @@ border-bottom: 1px solid black;
 .cards{
     padding: 5px;
 }
+.cards:hover{
+    transform: translateY(-10px)
+}
 .card-cont{
     margin-top: 10px;
 }
