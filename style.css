@@ -79,6 +79,10 @@ border-bottom: 1px solid black;
 .cards:hover{
     transform: translateY(-10px)
 }
+.contactCard:hover{
+        transform: translateY(0)
+
+}
 .card-cont{
     margin-top: 10px;
 }
@@ -118,4 +122,8 @@ border-bottom: 1px solid black;
     background-color: #000000;
     color: #ffffff;
     margin-top: 80px;
+}
+
+.footContact li{
+    padding: 5px;
 }
