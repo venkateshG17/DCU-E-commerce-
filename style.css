@@ -32,8 +32,15 @@
     margin-top: 5px;
     transition: 1s;
 }
+.nav-ul li a{
+    transition: 1s;
+}
 .nav-ul li:hover{
+    transform: translateY(0);
+}    
+.nav-ul li a:hover{
 border-bottom: 1px solid black;
+color: #000000;
 }
 .heroimg{
     width: 550px;
