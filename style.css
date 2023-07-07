@@ -9,8 +9,7 @@
     background-repeat: no-repeat;
     transition: 1s;
     color:rgb(255, 255, 255);
-    box-sizing: border-box;
-    height: 100vh;
+    box-sizing: border-box;
 }
 .nav-div{
     background-color: #ffffff;
