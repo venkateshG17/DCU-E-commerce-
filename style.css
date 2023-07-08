@@ -80,7 +80,7 @@ color: #000000;
     margin: 50px;
 }
 .cards{
-    padding: 25px;
+    padding: 5px;
 }
 .cards:hover{
     transform: translateY(-10px)
