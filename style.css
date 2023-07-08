@@ -5,7 +5,7 @@
     font-family: 'Mukta', sans-serif;
 }
 .home{
-    background: url("https://cdn.shopaccino.com/feranoid/categories/funky-t-shirts-banner-mobile-view-546324_m.jpg?v=465");
+    background: url("bgimg.png");
     background-repeat: no-repeat;
     transition: 1s;
     color:rgb(255, 255, 255);
